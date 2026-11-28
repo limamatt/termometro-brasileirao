@@ -101,11 +101,32 @@
      ]
     ],
     "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/11/27/escalacao-do-vasco-pedro-emanuel-tera-desfalques-na-defesa-contra-o-atletico-mg.ghtml"
+   },
+   "casa": {
+    "titulares": [
+     [
+      "Everson"
+     ],
+     [
+      "Natanael",
+      "Ruan Tressoldi",
+      "Vitão",
+      "Renan Lodi"
+     ],
+     [
+      "Castaño",
+      "Cissé",
+      "Fred: Bernard",
+      "Cassierra",
+      "Cuello"
+     ]
+    ],
+    "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/11/28/escalacao-do-atletico-mg-dominguez-tem-retornos-contra-o-vasco-protesto-marca-ultimo-treino.ghtml"
    }
   }
  },
  "diag": {
-  "hora": "2026-11-28T08:23:23+00:00",
+  "hora": "2026-11-28T18:04:13+00:00",
   "materias": [
    [
     "Botafogo x Bahia: onde assistir ao vivo, horário e escalações",
@@ -128,6 +149,12 @@
     "Escalação do Vasco: Pedro Emanuel terá desfalques na defesa contra o Atlético-MG",
     {
      "1780": 4
+    }
+   ],
+   [
+    "Escalação do Atlético-MG tem retornos contra o Vasco; protesto marca último trei",
+    {
+     "1766": 3
     }
    ]
   ],
